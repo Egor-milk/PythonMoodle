@@ -1,0 +1,5 @@
+print('Введите количество жителей')
+count_of_people = int(input())
+print('Введите площадь территории в квадратных километрах')
+square = int(input())
+print(f'Плотность населения {count_of_people / square:.2f} чел/кв. км.')
