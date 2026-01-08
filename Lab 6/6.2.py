@@ -1,0 +1,6 @@
+n = int(input("N: "))
+arr = list(map(int, input().split()))
+min_val = min(arr)
+max_val = max(arr)
+print("Минимальные:", *[x for x in arr if x == min_val])
+print("Максимальный:", max_val)
