@@ -1,0 +1,62 @@
+{
+  "egor": {
+    "password": "501cc2b31e481ce6b14bfd5b7d5e3fc76565695a5d6c236375871d7b9a9cf055",
+    "name": "egor",
+    "email": "egor@mail.ru",
+    "phone": "88005553535",
+    "registration_date": "2026-01-10 19:05:20",
+    "personal_data": {
+      "address": "",
+      "birth_date": "",
+      "notes": ""
+    },
+    "categories": {
+      "income": [
+        "Зарплата",
+        "Фриланс",
+        "Инвестиции",
+        "Подарки"
+      ],
+      "expense": [
+        "Продукты",
+        "Транспорт",
+        "Жилье",
+        "Развлечения",
+        "Здоровье"
+      ]
+    }
+  },
+  "egor1": {
+    "password": "164b2f39bd0ffcb35727a0d66973ee7421d28167bebc1b27d555ac95080c45e0",
+    "name": "egor1",
+    "email": "egor1@mail.ru",
+    "phone": "88005553535",
+    "registration_date": "2026-01-10 19:06:28",
+    "personal_data": {
+      "address": "Алтайская 92",
+      "birth_date": "2026-01-10",
+      "notes": "",
+      "name": "Лиманский Егор Евгеньевич",
+      "city": "Рубцовск",
+      "email": "egor@mail.ru",
+      "phone": "88005553535",
+      "workplace": "VeryGoodCompany",
+      "position": "GoodMan"
+    },
+    "categories": {
+      "income": [
+        "Зарплата",
+        "Фриланс",
+        "Инвестиции",
+        "Подарки"
+      ],
+      "expense": [
+        "Продукты",
+        "Транспорт",
+        "Жилье",
+        "Развлечения",
+        "Здоровье"
+      ]
+    }
+  }
+}

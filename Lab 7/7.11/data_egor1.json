@@ -1,0 +1,24 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "type": "Доход",
+      "category": "Зарплата",
+      "amount": 500.0,
+      "date": "2026-01-10",
+      "description": "",
+      "created_at": "2026-01-10 19:13:08"
+    },
+    {
+      "id": 2,
+      "type": "Расход",
+      "category": "Продукты",
+      "amount": 50000.0,
+      "date": "2026-01-10",
+      "description": "",
+      "created_at": "2026-01-10 19:13:23"
+    }
+  ],
+  "income_sources": [],
+  "settings": {}
+}
